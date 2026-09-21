@@ -1,4 +1,4 @@
-# Developer Log – July 12, 2025
+# Developer Log
 
 - Cleaned up daily-dev-log repo to make it public
 - Removed old automation files and added README
